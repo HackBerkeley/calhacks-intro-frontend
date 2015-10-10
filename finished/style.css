@@ -1,0 +1,40 @@
+body  {
+  font-family: "Roboto", sans-serif;
+}
+.cover {
+  text-align: center;
+  background-image: url("http://i.imgur.com/17uGFN1.jpg");
+  background-position: 70%;
+  color: white;
+  padding: 20px 0px;
+  margin-bottom: 20px;
+}
+.cover a {
+  color: white;
+}
+.resume  {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  background-color: #E6E2EB;
+  border: 2px solid #D6D3DB;
+  padding: 20px;
+  border-radius: 4px;
+}
+.profile-photo  {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+ul {
+  display: inline-block;
+}
+.button {
+  background-color: #333;
+  color: white;
+  padding: 20px 30px;
+  margin: 20px 0;
+  display: inline-block;
+  text-decoration: none;
+}

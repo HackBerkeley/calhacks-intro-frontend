@@ -1,0 +1,31 @@
+body {
+  font-family: Avenir;
+}
+.profile-picture {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.cover-photo  {
+  text-align: center;
+  background-image: url("http://i.imgur.com/17uGFN1.jpg");
+  background-size: cover;
+  color: white;
+}
+.cover-photo a {
+  color: white;
+}
+a:hover {
+  color: blue;
+}
+.name {
+  width: 40%;
+  margin: auto;
+  background-color: #E3E1EB;
+  padding: 20px 10px;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+hr  {
+  border: 1px dashed #BEBDC5;
+}
